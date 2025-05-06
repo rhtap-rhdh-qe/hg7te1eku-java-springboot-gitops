@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: hg7te1eku-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/hg7te1eku-java-springboot
